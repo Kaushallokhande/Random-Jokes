@@ -6,7 +6,7 @@ Welcome to the Instant Laughter Generator, your source of instant joy and laught
 
 This web application provides a collection of random jokes to bring a smile to your face. Click the "Get New Joke" button to enjoy a fresh dose of humor. You can even listen to the jokes being spoken out loud by clicking the speaker icon!
 
-## Screenshots
+## Page
 
 ![Instant Laughter Generator](./image/Homepage.png)
 
